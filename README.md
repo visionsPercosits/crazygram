@@ -5,7 +5,7 @@ Welcome to my first Python project:
 ❌ Login on Instagram. <br>
 ❌ Check how many followers someone have. <br>
 ❌ Follow people to get followers. <br>
-❌ Retrieve Instagram information to a Discord Webhook. <br> <br>
+❌ Retrieve Instagram information to a Discord Webhook. <br>
 
 <hr>
 
