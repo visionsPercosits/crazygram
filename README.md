@@ -14,3 +14,5 @@ Welcome to my first Python project:
 
 I will make more soon, star it to get notifications.
 
+
+<img src="https://cdn.discordapp.com/attachments/1082454763712561236/1091462146384212029/Crazygram.gif"/>
