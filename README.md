@@ -11,7 +11,7 @@
 
 <h2> 🎭 I made this project using Selenium documentation: </h2>
 
-✅ <a href="https://selenium-python.readthedocs.io/"> Selenium Documentation </a>
+✅ <a href="https://selenium-python.readthedocs.io/" target="_blank"> Selenium Documentation </a>
 
 I will make more soon, star it to get notifications. <br>
 
